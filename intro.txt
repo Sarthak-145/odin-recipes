@@ -1,0 +1,5 @@
+Okay, so I’m not entirely sure what this project is about, but I’m following The Odin Project, and it definitely feels like I’m making progress. I’ve just learned what the command line is and how it feels to truly understand what you’re entering.
+
+I want to tell my future self that today I learned what Git is all about, how to use the command line, how to navigate Linux OS, and how to install applications on Linux using the command line, among other things.
+
+I’m dreaming about creating a huge project that people will appreciate!
